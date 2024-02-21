@@ -1,0 +1,33 @@
+#Employees info
+org:
+ nit:
+  #for simple properties
+  eno: 1243
+  ename: Kalpataru
+  #for array properties
+  favColors: 
+      -red
+      -blue
+      -green
+  #For List collection
+  nickNames:
+      -chinna
+      -rohit
+      -Dilip
+  #for set Collection
+  phoneNumbers:
+         -9937
+         -6371
+         -7735
+  #for map collection
+  idDetails:
+     aadhar: 9389933
+     voter: 37394dwe
+     panNo: 34a33de43
+  #for HAS-A property
+  company:
+     id: 87434
+     name: HCL
+     addrs: hyd
+     size: 300
+     pincode: 500016

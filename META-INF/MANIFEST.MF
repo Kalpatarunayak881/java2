@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: BootProj08-Complex-Yml
+Bundle-SymbolicName: BootProj08-Complex-Yml
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: BootProj08.Complex.Yml
+Export-Package: com.nt,
+ com.nt.sbeans
